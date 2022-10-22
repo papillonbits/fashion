@@ -6,21 +6,10 @@
 
 > Show a feed of fashion news with a number of requirements.
 
-## 📗 Feature 1
-
-> Show the fashion news as a grid of cards with title, url and image url.
-
-## 📗 Feature 2
-
-> Show at the bottom of the layout a load more button to load more fashion news.
-
-## 📗 Feature 3
-
-> Clicking on a news card a dialog opens the news card information, image on top and title and description at the bottom.
-
-## 📗 Feature 3
-
-> Card information gets stored in the url to send or share that url among the fashion enthusiasts.
+- Show the fashion news as a grid of cards with title, url and image url.
+- Show at the bottom of the layout a load more button to load more fashion news.
+- Clicking on a news card opens the news card information, image on top and title and description at the bottom.
+- Card information gets stored in the url to send or share that url among the fashion enthusiasts.
 
 # 📚 Concepts
 
