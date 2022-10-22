@@ -13,7 +13,7 @@ import {
   greyLarge,
 } from './Label.int.story'
 
-describe('<Button />', () => {
+describe('<Label />', () => {
   describe('Render', () => {
     test('must match blackTiny', () => {
       expect(global.renderToJSON(blackTiny())).toMatchSnapshot()

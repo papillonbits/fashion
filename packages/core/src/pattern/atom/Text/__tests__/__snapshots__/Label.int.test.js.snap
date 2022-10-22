@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Button /> Render must match blackLarge 1`] = `
+exports[`<Label /> Render must match blackLarge 1`] = `
 <div>
   <span
     class="label labelBlack labelLarge"
@@ -10,7 +10,7 @@ exports[`<Button /> Render must match blackLarge 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blackMedium 1`] = `
+exports[`<Label /> Render must match blackMedium 1`] = `
 <div>
   <span
     class="label labelBlack labelMedium"
@@ -20,7 +20,7 @@ exports[`<Button /> Render must match blackMedium 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blackSmall 1`] = `
+exports[`<Label /> Render must match blackSmall 1`] = `
 <div>
   <span
     class="label labelBlack labelSmall"
@@ -30,7 +30,7 @@ exports[`<Button /> Render must match blackSmall 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blackTiny 1`] = `
+exports[`<Label /> Render must match blackTiny 1`] = `
 <div>
   <span
     class="label labelBlack labelTiny"
@@ -40,7 +40,7 @@ exports[`<Button /> Render must match blackTiny 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blueLarge 1`] = `
+exports[`<Label /> Render must match blueLarge 1`] = `
 <div>
   <span
     class="label labelBlue labelLarge"
@@ -50,7 +50,7 @@ exports[`<Button /> Render must match blueLarge 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blueMedium 1`] = `
+exports[`<Label /> Render must match blueMedium 1`] = `
 <div>
   <span
     class="label labelBlue labelMedium"
@@ -60,7 +60,7 @@ exports[`<Button /> Render must match blueMedium 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blueSmall 1`] = `
+exports[`<Label /> Render must match blueSmall 1`] = `
 <div>
   <span
     class="label labelBlue labelSmall"
@@ -70,7 +70,7 @@ exports[`<Button /> Render must match blueSmall 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match blueTiny 1`] = `
+exports[`<Label /> Render must match blueTiny 1`] = `
 <div>
   <span
     class="label labelBlue labelTiny"
@@ -80,7 +80,7 @@ exports[`<Button /> Render must match blueTiny 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match greyLarge 1`] = `
+exports[`<Label /> Render must match greyLarge 1`] = `
 <div>
   <span
     class="label labelGrey labelLarge"
@@ -90,7 +90,7 @@ exports[`<Button /> Render must match greyLarge 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match greyMedium 1`] = `
+exports[`<Label /> Render must match greyMedium 1`] = `
 <div>
   <span
     class="label labelGrey labelMedium"
@@ -100,7 +100,7 @@ exports[`<Button /> Render must match greyMedium 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match greySmall 1`] = `
+exports[`<Label /> Render must match greySmall 1`] = `
 <div>
   <span
     class="label labelGrey labelSmall"
@@ -110,7 +110,7 @@ exports[`<Button /> Render must match greySmall 1`] = `
 </div>
 `;
 
-exports[`<Button /> Render must match greyTiny 1`] = `
+exports[`<Label /> Render must match greyTiny 1`] = `
 <div>
   <span
     class="label labelGrey labelTiny"
