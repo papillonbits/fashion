@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Fashion /> Render must match regular 1`] = `
+<div>
+  <div
+    class="fashion"
+  >
+    <div
+      class="fashionHeading"
+    >
+      <span
+        class="heading headingH1"
+      >
+        Fashion News
+      </span>
+    </div>
+    <div>
+      <div
+        class="grid"
+      />
+    </div>
+    <button
+      class="fashionButton button"
+      type="button"
+    >
+      LOAD MORE
+    </button>
+  </div>
+</div>
+`;
