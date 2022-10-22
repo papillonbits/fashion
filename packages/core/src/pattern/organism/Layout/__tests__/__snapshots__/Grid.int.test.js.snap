@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Grid /> Render must match regular 1`] = `
+<div>
+  <div>
+    <div
+      class="grid"
+    />
+  </div>
+</div>
+`;

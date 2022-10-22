@@ -1,0 +1,10 @@
+/* stylelint-disable declaration-block-no-redundant-longhand-properties */
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  &Card {
+    padding: 5px;
+  }
+}
