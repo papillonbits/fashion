@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Render must match regular 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <div
+      class="modal"
+    >
+      <div
+        class="modalContent"
+      >
+        <div
+          class="modalContentCloseButton"
+        >
+          ×
+        </div>
+        <h1>
+          Copied to Clipboard!
+        </h1>
+        <a
+          href="http://some.url"
+        >
+          http://some.url
+        </a>
+      </div>
+    </div>
+    <div
+      class="cardHeader"
+    >
+      <div
+        class="cardHeaderLeft"
+      >
+        <div>
+          <svg
+            class="thumbnail"
+            fill=""
+            font-size="1px"
+            height="30"
+            viewBox="0 0 1024 1024"
+            width="30"
+          >
+            <path
+              d="M896 256v-128h-896v704c0 35.346 28.654 64 64 64h864c53.022 0 96-42.978 96-96v-544h-128zM832 832h-768v-640h768v640zM128 320h640v64h-640zM512 448h256v64h-256zM512 576h256v64h-256zM512 704h192v64h-192zM128 448h320v320h-320z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="cardHeaderRight"
+      >
+        <div
+          class="cardHeaderRightTitle"
+        >
+          <span
+            class="label labelBlack labelMedium"
+          >
+            [Title goes here]
+          </span>
+        </div>
+        <div
+          class="cardHeaderRightSecondaryText"
+        >
+          <span
+            class="label labelGrey labelSmall"
+          >
+            [Secondary text]
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="cardBody"
+    >
+      <div
+        class="cardBodyImage"
+      >
+        <img
+          alt="news"
+          height="200"
+          src="https://fashionunited.info/global-assets/img/default/fu-default_1200x630_black-favicon.jpg"
+          width="300"
+        />
+      </div>
+    </div>
+    <div
+      class="cardFooter"
+    >
+      <div
+        class="cardFooterTop"
+      >
+        <div
+          class="cardFooterTopSupportingText"
+        >
+          <span
+            class="label labelGrey labelSmall"
+          >
+            [Greyhound divisively hello coldly wonderfully marginally far upon excluding.]
+          </span>
+        </div>
+      </div>
+      <div
+        class="cardFooterBottom"
+      >
+        <div
+          class="cardFooterBottomButtons"
+        >
+          <button
+            class="cardFooterBottomButtonsButton button"
+            type="button"
+          >
+            [ACTION 1]
+          </button>
+          <button
+            class="cardFooterBottomButtonsButton button"
+            type="button"
+          >
+            [ACTION 2]
+          </button>
+        </div>
+        <div
+          class="cardFooterBottomIcons"
+        >
+          <div>
+            <svg
+              class="cardFooterBottomIconsIcon"
+              fill="#6e6d6d"
+              font-size="1px"
+              height="20"
+              viewBox="0 0 1024 1024"
+              width="20"
+            >
+              <path
+                d="M755.188 64c-107.63 0-200.258 87.554-243.164 179-42.938-91.444-135.578-179-243.216-179-148.382 0-268.808 120.44-268.808 268.832 0 301.846 304.5 380.994 512.022 679.418 196.154-296.576 511.978-387.206 511.978-679.418 0-148.392-120.43-268.832-268.812-268.832z"
+              />
+            </svg>
+          </div>
+          <div>
+            <svg
+              class="cardFooterBottomIconsIcon"
+              fill="#6e6d6d"
+              font-size="1px"
+              height="20"
+              viewBox="0 0 1024 1024"
+              width="20"
+            >
+              <path
+                d="M864 704c-45.16 0-85.92 18.738-115.012 48.83l-431.004-215.502c1.314-8.252 2.016-16.706 2.016-25.328s-0.702-17.076-2.016-25.326l431.004-215.502c29.092 30.090 69.852 48.828 115.012 48.828 88.366 0 160-71.634 160-160s-71.634-160-160-160-160 71.634-160 160c0 8.622 0.704 17.076 2.016 25.326l-431.004 215.504c-29.092-30.090-69.852-48.83-115.012-48.83-88.366 0-160 71.636-160 160 0 88.368 71.634 160 160 160 45.16 0 85.92-18.738 115.012-48.828l431.004 215.502c-1.312 8.25-2.016 16.704-2.016 25.326 0 88.368 71.634 160 160 160s160-71.632 160-160c0-88.364-71.634-160-160-160z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
