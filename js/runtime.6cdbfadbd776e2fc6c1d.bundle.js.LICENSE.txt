@@ -1,0 +1,6 @@
+/*!
+ * @project        fashion
+ * @name           runtime.6cdbfadbd776e2fc6c1d.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2023 MTS
+ */
