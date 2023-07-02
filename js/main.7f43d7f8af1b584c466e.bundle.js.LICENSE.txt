@@ -6,7 +6,7 @@
 
 /*!
  * @project        fashion
- * @name           main.a5d97f64f199348bb2cf.bundle.js
+ * @name           main.7f43d7f8af1b584c466e.bundle.js
  * @author         MTS
  * @copyright      Copyright (c) 2023 MTS
  */
